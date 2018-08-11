@@ -1,0 +1,93 @@
+~~~~~~~~~~~~NEW COMMAND~~~~~~~~~~~~
+Invalid command.
+~~~~~~~~~~~~NEW COMMAND~~~~~~~~~~~~
+Command: movie-this Mr+Nobody
+************OUTPUT************
+---------MOVIE INFO---------
+Title: Mr. Nobody
+Year Released: 2009
+IMDB Rating: 7.9/10
+Rotten Tomatoes Rating: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+~~~~~~~~~~~~NEW COMMAND~~~~~~~~~~~~
+Invalid command.
+~~~~~~~~~~~~NEW COMMAND~~~~~~~~~~~~
+Command: movie-this remember the titans
+************OUTPUT************
+---------MOVIE INFO---------
+Title: Remember the Titans
+Year Released: 2000
+IMDB Rating: 7.8/10
+Rotten Tomatoes Rating: 73%
+Country: USA
+Language: English
+Plot: The true story of a newly appointed African-American coach and his high school team on their first season as a racially integrated unit.
+Actors: Denzel Washington, Will Patton, Wood Harris, Ryan Hurst
+~~~~~~~~~~~~NEW COMMAND~~~~~~~~~~~~
+Command: movie-this remmber the titans
+************OUTPUT************
+Film not found.
+~~~~~~~~~~~~NEW COMMAND~~~~~~~~~~~~
+Command: spotify-this-song in the air
+************OUTPUT************
+---------SONG INFO---------
+Artist(s): Phil Collins
+Song Name: In The Air Tonight - 2015 Remastered
+Preview Link: https://p.scdn.co/mp3-preview/36ca54a4ddb42fac1cecd19684c351f160ed55fa?cid=6268eea4544148a1ab25ff0d655d469e
+Album: Face Value (Deluxe Editon)
+~~~~~~~~~~~~NEW COMMAND~~~~~~~~~~~~
+Command: my-tweets
+************OUTPUT************
+----------TWEET #1----------
+And apparently it's Kylie Jenner's birthday.
+----------TWEET #2----------
+The Louvre opened on this day in 1793!
+----------TWEET #3----------
+Rabbit yawns are so metal.
+----------TWEET #4----------
+As someone who does not post regularly on social media, writing 20 tweets in a day has proved challenging.
+----------TWEET #5----------
+Taking recommendations for surreal postmodern literature in the vein of Danielewski, etc...
+----------TWEET #6----------
+Did you know that Discovery Zone went defunct in 1999?
+----------TWEET #7----------
+What's a great weekend vacation spot within a 4 hour drive of Dallas?
+----------TWEET #8----------
+The forecast predicts rain all weekend, I guess there go my hiking plans.
+----------TWEET #9----------
+What's your favorite sushi restaurant in Dallas?
+----------TWEET #10----------
+I found a great recipe for lavender cupcakes!
+----------TWEET #11----------
+I'm making bangers and mash for dinner tonight.
+----------TWEET #12----------
+I think I'd like to go for a hike tomorrow. Any recommendations in the Dallas area?
+----------TWEET #13----------
+What's going on in Dallas this weekend?
+----------TWEET #14----------
+Sparkle is taking a post-dinner nap.
+----------TWEET #15----------
+I really like using Node.js!
+----------TWEET #16----------
+A fire truck just drove by with the siren blaring. I hope everyone is okay!
+----------TWEET #17----------
+Rain droplets on my laptop screen.
+----------TWEET #18----------
+Browder Plaza is a wonderful place to spend a lunch break.
+----------TWEET #19----------
+Sparkle is the greatest rabbit anyone could ask for.
+----------TWEET #20----------
+I'm enjoying a delicious chocolate croissant.
+~~~~~~~~~~~~NEW COMMAND~~~~~~~~~~~~
+Command: do-what-it-says
+Text File Content: spotify-this-song "I Want it That Way"
+Command: spotify-this-song I Want it That Way
+************OUTPUT************
+---------SONG INFO---------
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=6268eea4544148a1ab25ff0d655d469e
+Album: The Hits--Chapter One
